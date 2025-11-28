@@ -4,7 +4,7 @@
 Object tracking, a vital branch of computer vision, models an object's appearance and motion to predict its state and position. Traditional methods, often reliant on correlation filters, face challenges in complex scenarios. Recent advances in deep learning, particularly twin networks, have shown promise. This paper introduces a novel twin network-based tracker incorporating attention mechanisms and an adaptive anchor proposal strategy. By integrating multi-level features and applying scale-channel attention, our method achieves precise and rapid anchor suggestion. Evaluations on the UAV123 dataset series demonstrate enhanced tracking accuracy and robustness, particularly under rapid motion and scale changes.
 
 
-![总框图](D:\Project\123\paper\SOT\Code\SiamAPN-S\SiamAATN\img\总框图.svg)
+![总框图](https://github.com/YHG-kk/SiamAATN/blob/main/img\总框图.svg)
 
 ##### Test in UAV123 series datasheet image sequence.
 
