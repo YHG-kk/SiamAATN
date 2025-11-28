@@ -8,7 +8,7 @@ Object tracking, a vital branch of computer vision, models an object's appearanc
 
 ## Test in UAV123 series datasheet image sequence.
 
-### <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/truck.gif" alt="truck" style="zoom:50%;" /> <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/bike1.gif" alt="bike1" style="zoom:50%;" /> <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/uav1.gif" alt="uav1" style="zoom:50%;" />
+### <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/truck.gif" alt="truck" style="zoom:50%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/bike1.gif" alt="bike1" style="zoom:50%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/uav1.gif" alt="uav1" style="zoom:50%;" />
 
 # <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/Pre_uav123_10fps.svg" alt="Pre_uav123_10fps" style="zoom:50%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/Pre_uav123_20L.svg" alt="Pre_uav123_20L" style="zoom:50%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/Suc_uav123_20L.svg" alt="Suc_uav123_20L" style="zoom:50%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/Suc_uav123_10fps.svg" alt="Suc_uav123_10fps" style="zoom:50%;" />
 
