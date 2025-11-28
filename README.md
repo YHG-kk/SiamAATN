@@ -6,7 +6,7 @@ Object tracking, a vital branch of computer vision, models an object's appearanc
 
 ![总框图](https://github.com/YHG-kk/SiamAATN/blob/main/img/%E6%80%BB%E6%A1%86%E5%9B%BE.svg)
 
-##### Test in UAV123 series datasheet image sequence.
+## Test in UAV123 series datasheet image sequence.
 
 ### <img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/truck.gif" alt="truck" style="zoom:80%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/bike1.gif" alt="bike1" style="zoom:80%;" /><img src="https://github.com/YHG-kk/SiamAATN/blob/main/img/uav1.gif" alt="uav1" style="zoom:80%;" />
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 Datasheet:
 
-[Got-10k]: http://got-10k.aitestunion.com/downloads
+[GOT-10K](http://got-10k.aitestunion.com/downloads)
 
 Start train:
 
@@ -67,8 +67,4 @@ python demo_aatn_web.py --snapshot YOUR-MODE-PATH # use web cam as input image
 
 ### Acknowledgments
 
-This code is based on 
-
-[PySOT]: https://github.com/STVIR/pysot
-
-. We sincerely thank all the contributors.
+This code is based on [pysot](https://github.com/STVIR/pysot). We sincerely thank all the contributors.
